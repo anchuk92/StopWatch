@@ -1,0 +1,21 @@
+.container {
+  text-align: center;
+  margin-top: 100px;
+}
+
+h1 {
+  font-size: 100px;
+  text-shadow: 2px 2px 3px rgba(255, 255, 255, 0.1);
+}
+
+button {
+  width: 100px;
+  margin: 0 10px;
+  font-size: 20px;
+  border-radius: 3px;
+}
+
+button:hover {
+  background-color: #ffffff;
+  box-shadow: 0 -2px 0 #088 inset;
+}
